@@ -1,1 +1,4 @@
 # Market-Basket-analysis
+In the age of data-driven decision making, understanding customer purchasing behavior is crucial for developing effective marketing strategies. Market Basket Analysis is a technique used to uncover associations between products based on transaction data. By analyzing combinations of items frequently bought together, businesses can optimize product placement, offer personalized recommendations, and design targeted promotions.
+
+In this project, we use association rule mining on aisle-level purchase data to identify meaningful relationships between product categories. Using the Apriori algorithm, we generate frequent itemsets and derive association rules that reveal purchasing patterns. These insights empower marketers to make data-informed decisions that enhance customer engagement and increase sales.
